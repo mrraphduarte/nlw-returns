@@ -1,10 +1,18 @@
 # nlw-returns
 A whole week to take you to the next level by building a complete, exclusive and never-before-seen application with the RockeatSeat team
 
+<br/>
+
+# Motto to embark on the next journeys.
+The journey to the next level is endless.
+
+<br/>
+
+The next level is never the last and each level is a unique quest with different challenges and different rewards
 
 <br/><br/>
 
-# Tecnologias Utilizadas
+# Technologies Used
 
 ## typescript 
 https://www.typescriptlang.org/
