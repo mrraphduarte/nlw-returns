@@ -13,6 +13,18 @@ export class SubmitFeedbackService {
 
     async execute(request: SubmitFeedbackServiceRequest) {
         const { type, comment, screenshot } = request
+
+        if(!type){
+            throw new Error('Type is required')
+        }
+
+        if(!comment && !screenshot){
+            throw new Error('Feedback info is required, please take a screenshot or a comment.')
+        }
+
+        if(screenshot && !screenshot.startsWith('data:image/png;base64')) {
+            throw new Error('Invalid screenshot format.')
+        }
         
         await this.feedbacksRepository.create({
             type, comment, screenshot
