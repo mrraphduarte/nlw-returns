@@ -12,19 +12,44 @@ The next level is never the last and each level is a unique quest with different
 
 <br/><br/>
 
-# Technologies Used
+# Technologies Front Used
 
-## typescript 
+## Typescript 
 https://www.typescriptlang.org/
 
-## vite
+## Vite
 https://vitejs.dev/
 
-## tailwind
+## Tailwind
 https://tailwindcss.com/docs/installation/using-postcss
 
-## phosphoricons
+## Phosphoricons
 https://phosphoricons.com/
 
-## headless ui
+## Headless ui
 https://headlessui.dev/
+
+<br/><br/>
+
+# Technologies Back Used
+
+## Nodejs
+https://nodejs.org/en/
+
+## Typescript 
+https://www.typescriptlang.org/
+
+## SQLite 
+https://www.sqlite.org/index.html
+
+## Prisma
+https://www.prisma.io/
+
+## Nodemailer
+https://nodemailer.com/about/
+
+## Mailtrap
+https://mailtrap.io/
+
+## Jestjs
+https://jestjs.io/
