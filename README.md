@@ -67,3 +67,14 @@ https://expo.dev/
 
 ## Phosphor-react-native
 https://www.npmjs.com/package/phosphor-react-native
+
+
+<br/><br/>
+
+# Another Technologies Used
+
+## Vercel
+https://vercel.com/about
+
+## Railway
+https://railway.app/
