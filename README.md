@@ -53,3 +53,17 @@ https://mailtrap.io/
 
 ## Jestjs
 https://jestjs.io/
+
+<br/><br/>
+
+# Technologies Mobile Used
+
+## React Native SDK 44.0.0
+https://reactnative.dev/
+
+## Expo
+https://expo.dev/
+
+
+## Phosphor-react-native
+https://www.npmjs.com/package/phosphor-react-native
