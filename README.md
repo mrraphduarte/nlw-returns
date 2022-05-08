@@ -58,7 +58,7 @@ https://jestjs.io/
 
 # Technologies Mobile Used
 
-## React Native SDK 44.0.0
+## React Native
 https://reactnative.dev/
 
 ## Expo
